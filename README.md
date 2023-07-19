@@ -11,4 +11,5 @@ Data stories were crafted using the above common themes in all our visualization
 4. Resolution status of incidents
 5. Online case file frequency
 
-   
+   ![image](https://github.com/kpooja2597/SFPD-Crime-Incident-Insights/assets/36571510/bddb88f8-3664-4a80-8cc3-cd826891f2e2)
+
